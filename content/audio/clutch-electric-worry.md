@@ -4,7 +4,7 @@ date: 2018-11-03T16:12:47+01:00
 
 featuredImage: ""
 categories: ['Music']
-tags: ['Clutch', 'Rock and Roll']
+tags: ['Clutch', 'Rock']
 
 # Set your audio url for
 spotify:    "spotify:track:7mQgJx5mfCuI6o8elrYCKg"
