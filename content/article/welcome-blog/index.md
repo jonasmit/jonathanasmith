@@ -6,7 +6,7 @@ tags: ['Welcome', 'Blog']
 author: "Jon"
 noSummary: true
 
-resizeImages: true
+resizeImages: false
 
 draft: false
 ---

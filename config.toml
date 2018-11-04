@@ -1,6 +1,6 @@
 title = "Jonathan Smith"
 # Add an trailing slash to ensure that all fonts render correctly.
-baseURL = "/"
+baseURL = "https://jonathanasmith.com/"
 theme = "bilberry-hugo-theme"
 
 enableRobotsTXT = true
