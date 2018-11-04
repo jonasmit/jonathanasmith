@@ -120,20 +120,20 @@ googleAnalytics = ""
     copyrightBy = "by Jonathan Smith"
     copyrightUseCurrentYear = true  # set to true to always display the current year in the copyright
     copyrightYearOverride = "2018"
-    copyrightUrl = "https://jonathanasmith/"
-    creditsText = "Bilberry Hugo Theme"
-    creditsUrl = "https://github.com/Lednerb/bilberry-hugo-theme"
+    copyrightUrl = "https://jonathanasmith.com/"
+    creditsText = "Jonathan Smith"
+    creditsUrl = "https://jonathanasmith.com/page/about/about-me/"
 
 
 # customize your available languages for your multi-langual site
 # or delete the [Languages] blog to use the theme with only one supported language
-[Languages]
-  [Languages.en]
-    weight = 1
-  [Languages.de]
-    weight = 2
-    title = "Mein cooler neuer Blog"
-    subtitle = "Hallo Welt! Dies ist der epischste Untertitel aller Zeiten."
+# [Languages]
+#   [Languages.en]
+#     weight = 1
+#   [Languages.de]
+#     weight = 2
+#     title = "Mein cooler neuer Blog"
+#     subtitle = "Hallo Welt! Dies ist der epischste Untertitel aller Zeiten."
 
 # don't change anything below
 [taxonomies]
