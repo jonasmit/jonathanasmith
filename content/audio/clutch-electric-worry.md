@@ -12,7 +12,7 @@ soundcloud: ""     # https://soundcloud.com/lightbooks/alchemist-08-new-world-or
 tunein:     ""     # t117894382
 mixcloud:   ""     # scienceforthepeople/445-ai-ant-intelligence
 
-draft: true
+draft: false
 ---
 
-No matter the occasion - heads down working, working out, or just in need of a jam - can't go wrong with Clutch.
+An all time favorite.

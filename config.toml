@@ -85,7 +85,7 @@ googleAnalytics = ""
     dateFormat = "2018-01-02"
 
     # display the estimated reading time for an article
-    showReadingTime = true
+    showReadingTime = false
 
   # Footer configuration
     showFooter = true
