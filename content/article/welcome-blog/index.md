@@ -1,5 +1,5 @@
 ---
-title: "Welcome: Another Blog"
+title: "Welcome!"
 date: 2018-11-03T18:10:14+01:00
 
 tags: ['Welcome', 'Blog']
@@ -10,6 +10,4 @@ resizeImages: false
 
 draft: false
 ---
-Howdy!
-
-This is a new blog that I thought I would create to begin to capture a few thoughts about a variety of topics including: Technology, Music, Sports, Travel, Family, and San Francisco (my adopted city).
+After over 20 years in the technology industry, I have had the good fortune to work with some truly amazing colleagues, excellent customers, and inspiring leaders.
