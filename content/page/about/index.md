@@ -3,6 +3,7 @@ title: "About Me"
 date: 2017-11-01T13:18:45+01:00
 excludeFromTopNav: false
 featuredImage: "featuredImage.png"
+resizeImages: false
 showDate: false
 ---
 Howdy! My name is Jonathan (Jon) Smith. I live in the San Francisco Bay Area and work in the technology industry.
