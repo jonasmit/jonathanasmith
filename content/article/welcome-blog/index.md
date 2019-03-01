@@ -1,8 +1,10 @@
 ---
 title: "Welcome!"
-date: 2018-11-03T18:10:14+01:00
+date: 2018-11-08T20:00:00-08:00
 
-tags: ['Welcome', 'Blog']
+tags: ['Welcome', 'Blog Posts']
+categories: ['Blog']
+
 author: "Jon"
 noSummary: true
 
