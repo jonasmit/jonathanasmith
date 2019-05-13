@@ -53,7 +53,7 @@ googleAnalytics = "UA-20173364-5"
 
   # Header configuration
     # your subtitle if you want to use any
-    subtitle = "Entrepreneur | Technology Leader"
+    subtitle = "Technology Leader | Cloud | Cloud-native | Kubernetes| SaaS | Startups | FinTech"
 
     # if you want to use gravatar for the header image
     gravatarEMail = "jon.a.smith@gmail.com"
@@ -72,7 +72,7 @@ googleAnalytics = "UA-20173364-5"
 
   # Content configuration
     # Enable an optional pinned page to display at the top of the index
-    pinnedPost = "/article/welcome-blog/"
+    # pinnedPost = "/article/welcome-blog/"
     # Set to true to pin only to the first page, false to all pages
     pinOnlyToFirstPage = true
 
@@ -119,10 +119,10 @@ googleAnalytics = "UA-20173364-5"
     # credits line configuration
     copyrightBy = "by Jonathan Smith"
     copyrightUseCurrentYear = true  # set to true to always display the current year in the copyright
-    copyrightYearOverride = "2018"
+    # copyrightYearOverride = "2019"
     copyrightUrl = "https://jonathanasmith.com/"
     creditsText = "Jonathan Smith"
-    creditsUrl = "https://jonathanasmith.com/page/about/about-me/"
+    creditsUrl = "https://jonathanasmith.com/page/about/"
 
 
 # customize your available languages for your multi-langual site
