@@ -18,6 +18,10 @@ Provided the necessary skills exist, building a product (of any sort) is relativ
 
 While numerous friends, former colleagues, and acquaintances have built consultancies that are still going concerns - its not always an easy path. Over the past 20 years I've worked in building, managing and scaling services organizations and teams in the Technology industry
 
+'''
+mkdir test && cd test
+'''
+
 Best Practices:
 
 - Listen
