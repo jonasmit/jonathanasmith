@@ -53,7 +53,7 @@ googleAnalytics = "UA-20173364-5"
 
   # Header configuration
     # your subtitle if you want to use any
-    subtitle = "Technology Leader | Cloud | Cloud-native | Kubernetes| SaaS | Startups | FinTech"
+    subtitle = "Technology Leader | Cloud | Cloud Native | Kubernetes | SaaS | Startups | FinTech"
 
     # if you want to use gravatar for the header image
     gravatarEMail = "jon.a.smith@gmail.com"
