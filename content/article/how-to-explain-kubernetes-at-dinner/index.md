@@ -17,7 +17,7 @@ I have always promoted the principle that it is easy to solve a complex problem 
 *So, why is Kubernetes hard to explain?*
 <br/>The primary reason, I think, is related to the large amount of *a posteriori* knowledge usually only acquired through experience.
 
-To explain Kubernetes, effectively, requires explaining a lot foundational technology concepts. And, perhaps more importantly, to explain the problems these technologies are/were solving. For those of us who have been in the industry for awhile, we understand Kubernetes because of experience with many foundational technologies - both the successes and many more *failures*. 
+To explain Kubernetes, effectively, requires understanding a lot foundational technology concepts - and, perhaps more importantly, to explain the problems these technologies are solving. For those who have been in the industry awhile, the concepts come faster because of prior experience - both the successes and many more *failures*. 
 
 ##### What is Kubernetes?
 But back to my 8 y.o. daughter and her important question. 
