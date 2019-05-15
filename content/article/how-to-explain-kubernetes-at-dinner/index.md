@@ -12,7 +12,7 @@ Recently at dinner, my 8 y.o. daughter asked one of the hardest questions I've e
 Now, before you start sending my daughter LinkedIn requests and job offers, the question was prompted by our normal dinnertime conversation and as I was describing my day the keyword, **Kubernetes**, was mentioned. I was proud that she was engaged, and genuinely curious but I quickly realized the difficulty in this seemingly simple question. I will get to Kubernetes in a bit but for now, just trust me, Kubernetes is one of the hottest technologies in the industry at the moment and you should read on to learn more.
 
 ##### Why is Kubernetes hard to explain?
-I have always promoted the principle that it is easy to solve a complex problem with a complex solution but very hard to solve a complex problem simply. Simplicity is hard because it requires a deep understanding of core concepts. The ability to express complex ideas in a narrative that broad audiences can understand is equally important. But sometimes really hard, especially when discussing complex technology.
+I have always promoted the principle that it is easy to solve a complex problem with a complex solution but very hard to solve a complex problem simply. Simplicity is hard because it requires a deep understanding of core concepts. The ability to express complex ideas in a narrative that broad audiences can understand is equally important. But sometimes that is really hard, especially when discussing complex technology.
 
 *So, why is Kubernetes hard to explain?*
 <br/>The primary reason, I think, is related to the large amount of *a posteriori* knowledge usually only acquired through experience.
