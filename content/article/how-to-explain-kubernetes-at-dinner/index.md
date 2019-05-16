@@ -7,17 +7,21 @@ categories: ["Technology", "Cloud Native"]
 tags: ["Kubernetes", "Cloud Native"]
 author: "Jon Smith"
 ---
-Recently at dinner, my 8 y.o. daughter asked one of the hardest questions I've ever had to answer - "Daddy, What is Kubernetes."
+_(Hidden Subtitle: But why would you want to?)_
+
+Recently at dinner, my 8 y.o. daughter asked one of the hardest questions I've ever had to answer - "Daddy, What's Kubernetes."
 ##### Dinnertime
-Now, before you start sending my daughter LinkedIn requests and job offers, the question was prompted by our normal dinnertime conversation and as I was describing my day the keyword, **Kubernetes**, was mentioned. I was proud that she was engaged, and genuinely curious but I quickly realized the difficulty in this seemingly simple question. I will get to Kubernetes in a bit but for now, just trust me, Kubernetes is one of the hottest technologies in the industry at the moment and you should read on to learn more.
+Now, before you start sending my daughter LinkedIn requests and job offers, the question was prompted by a routine dinnertime conversation and - as I was describing my day - the keyword, **Kubernetes**, came up. I was proud that she was engaged, and genuinely curious, but I quickly realized the difficulty in answering this seemingly simple question. In truth, the subject of what I do in general and Kubernetes, specifically, had come up before but each explanation attempt had failed miserably. So, this time I decided to try a different approach - by starting with "Why".
+
+I will get my explanation of Kubernetes in a bit - but for now, just trust me, Kubernetes is one of the hottest technologies in the industry at the moment and you should read on to learn more about the technology at the forefront of the Cloud Native movement. If, however, you are looking for a Kubernetes "how to" you probably aren't going to learn much in this article :).
 
 ##### Why is Kubernetes hard to explain?
-I have always promoted the principle that it is easy to solve a complex problem with a complex solution but very hard to solve a complex problem simply. Simplicity is hard because it requires a deep understanding of core concepts. The ability to express complex ideas in a narrative that broad audiences can understand is equally important. But sometimes that is really hard, especially when discussing complex technology.
+I have always promoted the principle that it is easy to solve a complex problem with a complex solution but very hard to solve a complex problem simply. The ability to communicate a complex idea in a narrative that broad audiences can understand is hard, especially when discussing a complex technology. I am still working to develop such a skill...
 
 *So, why is Kubernetes hard to explain?*
-<br/>The primary reason, I think, is related to the large amount of *a posteriori* knowledge usually only acquired through experience.
+<br/>The primary reason, I think, is that understanding Kubernetes requires *a posteriori* knowledge usually only acquired through experience.
 
-To explain Kubernetes, effectively, requires understanding a lot foundational technology concepts - and, perhaps more importantly, to explain the problems these technologies are solving. For those who have been in the industry awhile, the concepts come faster because of prior experience - both the successes and many more *failures*. 
+To explain Kubernetes, effectively, requires understanding a lot foundational technology concepts - and, perhaps more importantly, to explain the problems these technologies are solving. For those who have been in the industry awhile, the concepts come fast because of prior experience - both the successes and many more *failures*. But, for people who are *consumers* of technology - the concepts are simply too abstract.
 
 ##### What is Kubernetes?
 But back to my 8 y.o. daughter and her important question. 
@@ -27,11 +31,14 @@ But back to my 8 y.o. daughter and her important question.
 My first thought was to answer her question directly - "Kubernetes is a **container orchestration platform** that simplifies the ability for people to manage containers at scale." But, of course, that would not have gone over well with an 8 y.o. or probably most people.
 
 ##### The Food Truck
-So, I did what all dads do when questions gets complex - I came up with an analogy.
+So, I did what all dads do when questions gets complex - I came up with an analogy. 
+
+>**Note:** There is the wonderful [Childrens Illustrated Guide to Kubernetes](https://www.cncf.io/the-childrens-illustrated-guide-to-kubernetes/) which is a great source with great visualizations.
+
 
 !["Food Truck"](foodtruck.png)
 
-The great thing about food trucks is that they are essentially small, specialized restaurants on wheels that are fairly inexpensive to operate. They usually offer fast service due to their limited menu - purpose-built to make a limited number of menu items and do them really well. Being mobile, they can also move to wherever hungry people are located. But, during the lunch rush even a food truck can get backed up with a line as each person in line has to wait for each previous order to be filled before they can get their food.
+The great thing about food trucks is that they are essentially small, specialized restaurants on wheels that are fairly inexpensive to operate. They usually offer fast service due to their limited menu - purpose-built to make a limited number of menu items and do them really well. Being mobile, food trucks can also move to wherever hungry people are located. But, during the lunch rush, even an efficient food truck operation can get backed up with a line as each person in line has to wait for each previous order to be filled before they can get their food.
 
 For example, if the line is 10 people and it takes 1 minute to prepare the order - the person in the back of the line waits 10 minutes. If the line grows to 100, thats 1 hour and 40 minute wait. Very few people would wait in *that* line resulting in lost business due the limited capacity of a single food truck. 
 
