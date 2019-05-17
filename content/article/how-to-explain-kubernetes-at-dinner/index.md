@@ -37,7 +37,7 @@ So, I did what all dads do when questions gets complex - I ~~changed the subject
 
 !["Food Truck"](foodtruck.png)
 
-The great thing about food trucks is that they are essentially small, specialized restaurants on wheels that are fairly inexpensive to operate. They usually offer fast service due to their limited menu - which is purpose-built to prepare a small number of menu items and execute them really well. Being mobile, food trucks can also move to wherever hungry people are located. But, during the lunch rush, even an efficient food truck operation can get backed up with a line as each person must wait for each previous order to be filled.
+The great thing about food trucks is that they are essentially small, specialized restaurants on wheels that are fairly inexpensive to operate. They usually offer fast service due to their limited menu - purpose-built to produce a small number of menu items and do them really well. Being mobile, they can also move to wherever hungry people are located. But, during the lunch rush even a food truck can get backed up with a line as each person in line has to wait for each previous order to be filled before they can get their food.
 
 For example, if there is a line of 10 people and it takes 1 minute to prepare the order - the person in the back of the line must wait 10 minutes for their food. If the line grows to 100, that's 1 hour and 40 minute wait. Very few people would wait in *that* line, resulting in lost revenue due the limited capacity of this single food truck. 
 
