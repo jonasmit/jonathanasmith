@@ -4,7 +4,7 @@ date: 2019-05-14T13:47:23-07:00
 draft: false
 
 categories: ["Technology", "Cloud Native"]
-tags: ["Kubernetes", "Cloud Native"]
+tags: ["Kubernetes", "Cloud Native", "K8s"]
 author: "Jon Smith"
 ---
 _(Hidden Subtitle: But why would you want to?)_
