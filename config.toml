@@ -28,7 +28,7 @@ googleAnalytics = "UA-20173364-5"
   # Description and meta data for the search engines
   author = "Jonathan Smith"
   description = "Personal Blog for Jonathan Smith."
-  keywords = "blog,personal,responsive,search,font awesome,pages,posts,multilingual,highlight.js,syntax highlighting,premium,shortcuts"
+  keywords = "blog,personal,responsive,search,font awesome,pages,posts,highlight.js,syntax highlighting,premium,shortcuts"
 
   # How many articles should be displayed at once?
   paginate = 7
@@ -53,7 +53,7 @@ googleAnalytics = "UA-20173364-5"
 
   # Header configuration
     # your subtitle if you want to use any
-    subtitle = "Technology Leader | Cloud | Cloud Native | Kubernetes | SaaS | Startups | FinTech"
+    subtitle = "Cloud | Cloud Native | Kubernetes | SaaS | Startups | FinTech"
 
     # if you want to use gravatar for the header image
     gravatarEMail = "jon.a.smith@gmail.com"
