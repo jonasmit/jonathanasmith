@@ -1,5 +1,0 @@
-# Redirect domain aliases to primary domain
-https://heisenberg.dev/* https://jonathanasmith.com/:splat 301!
-
-# Optional: Redirect default Netlify subdomain to primary domain
-https://kind-einstein-35b9cd.netlify.com/* https://jonathanasmith.com/:splat 301!
