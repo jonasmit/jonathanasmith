@@ -12,7 +12,7 @@ DefaultContentLanguage = "en"
 googleAnalytics = ""
 
 # Enable / Disable comments on the articles via Disqus.
-disqusShortname = ""
+disqusShortname = "jonathanasmith-com"
 
 # Enable / Disable open link with a new tab.
 [blackfriday]
@@ -127,8 +127,8 @@ disqusShortname = ""
     copyrightUseCurrentYear = true  # set to true to always display the current year in the copyright
     copyrightYearOverride = "2020"
     copyrightUrl = "https://github.com/jonasmit"
-    creditsText = "Bilberry Hugo Theme"
-    creditsUrl = "https://github.com/Lednerb/bilberry-hugo-theme"
+    creditsText = "Blog"
+    creditsUrl = "https://jonathanasmith.com/"
 
 
 # customize your available languages for your multi-langual site
