@@ -29,7 +29,7 @@ disqusShortname = "jonathanasmith-com"
   # Description and meta data for the search engines
   author = "jonasmit"
   description = "Bilberry Premium Theme for Hugo."
-  keywords = "blog,personal,responsive,search,font awesome,pages,posts,multilingual,highlight.js,syntax highlighting,premium,shortcuts"
+  keywords = "blog,personal,kubernetes,cloud native"
 
   # How many articles should be displayed at once?
   paginate = 7
@@ -38,15 +38,15 @@ disqusShortname = "jonathanasmith-com"
   enable_mathjax    = false
 
   # Enable / Disable algolia search
-  algolia_search    = true
-  algolia_appId     = "M10EPYM31I"
-  algolia_apiKey    = "44b9f4edd518ddbb89efe08c904f9e95"
-  algolia_indexName = "jonathanasmith.com"
+  algolia_search    = false
+  algolia_appId     = ""
+  algolia_apiKey    = ""
+  algolia_indexName = ""
     # Set this option to false if you want to search within all articles in all languages at once
     algolia_currentLanguageOnly = true
 
   # Enable / Disable comments on the articles via commento
-  commentoJsURL = "https://commento.lednerb.de/js/commento.js"
+  commentoJsURL = ""
 
   # Media configuration
     # let hugo automatically resize and crop your images to the correct sizes
