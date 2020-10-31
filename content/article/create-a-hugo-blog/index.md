@@ -15,7 +15,7 @@ draft: true
 ---
 There are, quite literally, dozens of options for building and hosting your own site or blog. However, if you are building a personal site - where no revenue is being generated - the most important requirement is price. And **Free (as in Beer)** is the best price!
 
-In this article, I will help you set up your own blog, host it publicly for free using technologies that are easily accessible and completely (aside from a registered domain name) free. Of course, this isn't for everyone, you will need to either have a technology background or explore some of the technologies involved.
+In this article, I will describe a method for building a blog using a static site generator technology, hugo. Static sites are great because of their simplicity - there is no database or application server code to maintain - only a web server. Hugo allows you to build complex sites even without these technologies by generating the final static site from pre-built components and themes.
 
 __Steps:__
 - Domain Name (Optional)
