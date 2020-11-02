@@ -42,6 +42,7 @@ Once you have obtained the domain name, no additional setup is required until yo
 More than likely you already have a __[GitHub](https://www.github.com/)__ account but if not, go ahead and get that set up so you can have a source code repository to store your site content.
 
 If you do not know what GitHub is, check out the following helpful material to learn more and get started with GitHub:
+
   - __[Getting Started with GitHub](https://docs.github.com/en/free-pro-team@latest/github/getting-started-with-github/quickstart)__
   -  __[Hello World](https://guides.github.com/activities/hello-world/)__
 
