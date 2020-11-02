@@ -15,7 +15,7 @@ draft: false
 ---
 There are, quite literally, dozens of options for building and hosting your own site or blog. However, if you are building a personal site - where no revenue is being generated - the most important requirement is price. And **Free (as in Beer)** is the best price!
 
-In this article, I will describe a method for building a blog using a static site generator technology, Hugo, and run it locally on your machine. In Part 2, I will hook up the site to Netlify to make the site public. 
+In this article, I will describe a method for building a blog using a static site generator technology, [Hugo](https://gohugo.io/), and run it locally on your machine. In Part 2, I will hook up the site to Netlify to make the site public. 
 
 <!--More -->
 
