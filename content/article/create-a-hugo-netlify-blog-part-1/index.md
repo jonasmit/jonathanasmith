@@ -15,11 +15,11 @@ draft: false
 ---
 There are, quite literally, dozens of options for building and hosting your own site or blog. However, if you are building a personal site - where no revenue is being generated - the most important requirement is price. And **Free (as in Beer)** is the best price!
 
-In this article, I will describe a method for building a blog using a static site generator technology, __[Hugo](https://gohugo.io/)__, and run it locally on your machine. In Part 2, I will hook up the site to Netlify to make the site public. 
+In this article, I will describe a method for building a blog using a static site generator technology, __[Hugo](https://gohugo.io/)__, and run it locally on your machine. In Part 2, I will hook up the site to Netlify to make your blog public. 
 
 <!--More -->
 
-Static sites are great because of their simplicity - there is no database or application server code to maintain - only a web server (and with Netlify, you won't even need to think about the web server). Hugo allows you to build complex sites even without these technologies by generating the final static site from pre-built components and themes. 
+Static sites are great because of their simplicity - there is no database or application server code to maintain - only a web server (and with Netlify, you won't even need to think about the web server). Hugo allows you to build complex sites even without database and application server technologies by generating the final static site from pre-built components and themes. You simply place your Markdown content in specific directories, use a pre-built theme, and your site is generated at build time. The result is a compelling site with very fast load times and features that closely resemble dynamic sites built with more moving parts. 
 
 Hugo is extremely configurable and you can have a professional site with minimal effort. Most Hugo configuration follows the convention over configuration pattern but Hugo also provides a __config.toml__ file as well for global configurations and complex options. 
 
