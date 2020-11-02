@@ -1,5 +1,5 @@
 ---
-title: "Host your blog free with Hugo and Netlify - Part 1"
+title: "Create a Hugo Netlify Blog (Part 1)"
 subtitle: "free"
 
 date: 2020-11-01T11:01:07-04:00
