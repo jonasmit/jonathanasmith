@@ -24,7 +24,7 @@ Static sites are great because of their simplicity - there is no database or app
 Hugo is extremely configurable and you can have a professional site with minimal effort. Most Hugo configuration follows the convention over configuration pattern but Hugo also provides a __config.toml__ file as well for global configurations and complex options. 
 
 ### Process Architecture
-The overall process architecture is defined in the following diagram. As a developer you will use Hugo on your local workstation to build and test your site. When you are ready you will push your code/content to GitHub. Netlify will then pick up the changes made in GitHub and build and publish the site. Visitors can type in the domain name for your site and access the blog. All steps are automated, except the content development :).
+The overall process architecture is defined in the following diagram. As a developer, you will use Hugo on your local workstation to build and test your site. All local changes on your machine will be pushed to your remote GitHub repository. Netlify will then pick up the changes made in GitHub and build and publish the site. Finally, once published, visitors will be able to access your site. Best of all, these steps are automated, except the content development :).
 
 ![Process Architecture](https://docs.google.com/drawings/d/e/2PACX-1vTbcOcHb3s-wLoJ_Fx-0-8vH90O5qZPFKn6jp1qbOqghzR7s10fXe8VbKCi1_4kCEBvina99CdRbAjO/pub?w=960&amp;h=720)
 
