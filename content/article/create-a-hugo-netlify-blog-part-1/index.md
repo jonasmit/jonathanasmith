@@ -7,7 +7,7 @@ date: 2020-11-01T11:01:07-04:00
 tags: ['Hugo', 'Blog']
 categories: ['Blog']
 author: "Jon"
-noSummary: true
+noSummary: false
 
 resizeImages: false
 
@@ -17,9 +17,11 @@ There are, quite literally, dozens of options for building and hosting your own 
 
 In this article, I will describe a method for building a blog using a static site generator technology, Hugo, and run it locally on your machine. In Part 2, I will hook up the site to Netlify to make the site public. 
 
+<!--More -->
+
 Static sites are great because of their simplicity - there is no database or application server code to maintain - only a web server (and with Netlify, you won't even need to think about the web server). Hugo allows you to build complex sites even without these technologies by generating the final static site from pre-built components and themes. 
 
-Hugo is extremely configurable and you can have a professional site with minimal effort. Most of Hugo configuration follows the convention over configuration pattern but Hugo does provide a config.toml file as well. 
+Hugo is extremely configurable and you can have a professional site with minimal effort. Most Hugo configuration follows the convention over configuration pattern but Hugo also provides a __config.toml__ file as well for global configurations and complex options. 
 
 ### Process Architecture
 The overall process architecture is defined in the following diagram. As a developer you will use Hugo on your local workstation to build and test your site. When you are ready you will push your code/content to GitHub. Netlify will then pick up the changes made in GitHub and build and publish the site. Visitors can type in the domain name for your site and access the blog. All steps are automated, except the content development :).
@@ -204,6 +206,8 @@ git add .
 git commit -a -m "new post"
 git push -u origin HEAD
 ```
+
+At this stage you have completed almost all the steps in this article:
 ![Completed Steps](https://docs.google.com/drawings/d/e/2PACX-1vT7tZsQL_bGQDJynRPDF0_yDiK9bhJ2jlhOv2Sma8bElRaP4thLCF-7Xiw7WR6XLYHZKhf6gY5aesSO/pub?w=597&amp;h=201)
 
 In Part 2, I will demonstrate how to wire this blog up to Netlify and publish your blog using the domain name that you registered!
