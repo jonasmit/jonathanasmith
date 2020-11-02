@@ -17,7 +17,7 @@ There are, quite literally, dozens of options for building and hosting your own 
 
 In this article, I will describe a method for building a blog using a static site generator technology, Hugo, and run it locally on your machine. In Part 2, I will hook up the site to Netlify to make the site public. 
 
-Static sites are great because of their simplicity - there is no database or application server code to maintain - only a web server (and with Netlify, you won't even need a web server). Hugo allows you to build complex sites even without these technologies by generating the final static site from pre-built components and themes. 
+Static sites are great because of their simplicity - there is no database or application server code to maintain - only a web server (and with Netlify, you won't even need to think about the web server). Hugo allows you to build complex sites even without these technologies by generating the final static site from pre-built components and themes. 
 
 Hugo is extremely configurable and you can have a professional site with minimal effort. Most of Hugo configuration follows the convention over configuration pattern but Hugo does provide a config.toml file as well. 
 
