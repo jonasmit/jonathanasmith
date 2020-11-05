@@ -27,8 +27,8 @@ disqusShortname = "jonathanasmith-com"
   js_modules = []
 
   # Description and meta data for the search engines
-  author = "jonasmit"
-  description = "Bilberry Premium Theme for Hugo."
+  author = "Jon"
+  description = "Technology | Cloud Native | Kubernetes | Open Source | FinTech"
   keywords = "blog,personal,kubernetes,cloud native"
 
   # How many articles should be displayed at once?
