@@ -5,4 +5,6 @@ excludeFromTopNav: false
 showDate: false
 draft: false
 ---
-**WIP**
+My name is Jonathan (Jon) Smith. 
+
+I have spent most of my career in the technology industry, and use this site to capture thoughts about the industry and other important topics of the day.
