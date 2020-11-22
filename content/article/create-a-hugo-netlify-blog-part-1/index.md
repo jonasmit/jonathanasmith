@@ -92,7 +92,7 @@ Now that you have the necessary tools installed, let's create a directory and ge
 In this command we will create a directory for your GitHub repositories (or you can use any directory you like) and navigating to that directory.
 
 ```plaintext
-mkdir github_repositories && cd github repositories
+mkdir github_repositories && cd github_repositories
 ```
 
 #### Create a new site and navigate to the site directory:
