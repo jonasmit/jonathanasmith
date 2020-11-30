@@ -37,5 +37,6 @@ I won't go through each step but go quickly through the following steps:
 Netlify will pull the content from GitHub and build your site.  At this stage, your site is published and publicly viewable via a custom generated url.
 
 #### Set up your Domain
+Next set up your
 
 ### Publish!
