@@ -2,6 +2,7 @@
 title: "Build a zero cost blog using Hugo and Netlify (Part 1)"
 
 date: 2020-11-01T11:01:07-04:00
+draft: true 
 
 tags: ['Hugo', 'Netlify', 'Blogging']
 categories: ['Hugo']
