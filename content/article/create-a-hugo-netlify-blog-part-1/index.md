@@ -10,8 +10,6 @@ author: "Jon"
 noSummary: false
 
 resizeImages: false
-
-draft: false
 ---
 There are, quite literally, dozens of options for building and hosting your own site or blog (Squarespace, Wix, Weebly, WordPress etc.). However, if you are creating a personal site - where no revenue is being generated - the most important requirement is price. And **Free (as in Beer)** is the best price! The following article describes an approach that leverages free, open source technology for the site generation and the free tier of a Software-as-a-Service (SaaS) solution for build and hosting.  The only cost will be the purchase of a domain name (optional).
 
